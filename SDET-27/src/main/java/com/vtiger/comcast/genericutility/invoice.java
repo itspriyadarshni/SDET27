@@ -7,5 +7,13 @@ public class invoice {
 	public void createInvoice() {
 		
 	}
+	
+	
+	/**
+	 * delete invoice
+	 */
+	public void deleteInvoice() {
+		
+	}
 
 }
